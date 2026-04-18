@@ -85,7 +85,8 @@ These insights can help businesses:
 
 ## Output Example
 
-<img width="613" height="433" alt="image" src="https://github.com/user-attachments/assets/be8af89b-9bb7-47d5-9221-f469a58d842d" />
+<img width="613" height="463" alt="image" src="https://github.com/user-attachments/assets/e6e515bf-64ae-4079-af4b-30c8ef2d1135" />
+
 
 ---
 
